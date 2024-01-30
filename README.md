@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello I'm Dorian a student in M1 CSMI 👋
 
 <!--
 **DorianG02/DorianG02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
