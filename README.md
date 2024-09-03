@@ -1,5 +1,9 @@
 ### Hello, I'm Dorian a student in 1st year master Scientific Computation and Mathematics of Innovation 👋
 
+- 📫 How to reach me:
+ doriangeraldes@gmail.com
+ https://www.linkedin.com/in/dorian-geraldes-1491752b1/
+- 
 <!--
 **DorianG02/DorianG02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
